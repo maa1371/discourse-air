@@ -7,6 +7,9 @@
     "https://github.com/discourse/discourse-clickable-topic.git",
     "https://github.com/discourse/discourse-search-banner.git"
   ],
+  "assets": {
+    "IRANSansX-Regular": "assets/IRANSansX-Regular.woff"
+  },
   "modifiers": {
     "serialize_topic_excerpts": true
   },
