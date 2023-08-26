@@ -1,6 +1,13 @@
 // custom search banner customizations
+@font-face {
+	font-family: IRANSansX;
+	font-style: normal;
+	font-weight: normal;
+	src: url($IRANSansX-Regular) format('woff');		
+}
+
 body{
-  font-family: IRANSansX-Regular;
+    font-family: 'IRANSansX', sans-serif !important;
 }
 .custom-search-banner-wrap {
   margin: 0 auto !important;
