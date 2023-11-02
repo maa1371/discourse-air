@@ -8,7 +8,8 @@
     "https://github.com/discourse/discourse-search-banner.git"
   ],
   "assets": {
-    "IRANSansX-Regular": "assets/IRANSansX-Regular.woff"
+    "IRANSansX-Regular": "assets/IRANSansX-Regular.woff",
+    "top-background": "assets/topBackground.jpeg"
   },
   "modifiers": {
     "serialize_topic_excerpts": true
